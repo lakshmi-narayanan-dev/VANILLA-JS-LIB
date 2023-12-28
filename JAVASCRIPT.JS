@@ -16,7 +16,7 @@ Anonymous, call, Apply, Bind and Closures
 Array - Create,Access,Loop over and remove
 Numbers - Date,year,hours,seconds,local time
 JS - npm , yarn , VCS , NodeBundle Webpack , Testing Jest , React Library , Angular Framework  , linux environment & Terminal , Primitives [Boolean , String , Number , Undefined, Symbol], Operators [+ - / * %] , Let var const [var , let & const are used to declare variables in js] , Hoisting , Implicit Explicit Conversion , Data structure [Array , Json, Map] , Prototypes [Async , Promises , Closures] , Native Methods [math , sqrt , foreach, ceil] , Paradigms [Functional , Relative , Object] , NodeJs & ExpressJs [Server side J5 , Derby , Meteor , Isometric Applications]
-
+Caching - CDN, Server side, Client Side
 
 -------------------
 Package Manager
