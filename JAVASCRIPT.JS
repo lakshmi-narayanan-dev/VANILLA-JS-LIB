@@ -24,6 +24,14 @@ Package Manager
 Yarn 
 Npm
 
+-----------------
+Introduction
+-----------------
+Js is an interpreter that only translates what we say , 
+not a compiler like java executes the entire code > only if it is good > it runs the code.
+
+JIT? = https://www.zoho.com/inventory/guides/what-is-just-in-time.html#:~:text=Just%2Din%2Dtime%2C%20or,only%20as%20they%20are%20needed.
+
 ---------------------
 Linting & Formatting
 ---------------------
