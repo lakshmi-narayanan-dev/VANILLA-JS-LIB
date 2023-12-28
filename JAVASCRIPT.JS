@@ -16,12 +16,15 @@ Anonymous, call, Apply, Bind and Closures
 Array - Create,Access,Loop over and remove
 Numbers - Date,year,hours,seconds,local time
 
+-------------------
+Package Manager
+-------------------
+Yarn 
+Npm
 
 ------------------------------------------------------------
 RISE of PWA - Progressive Web Application - A JS revolution
 -----------------------------------------------------------
-
-
 
 Global Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol 
