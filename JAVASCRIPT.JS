@@ -39,6 +39,14 @@ WebPack
 https://webpack.js.org/concepts/modules/
 Webpack - Js code bundler to make single file
 
+------------------
+Authentication
+------------------
+JWT - JSON Web Token
+OAuth - https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow
+SSO 
+
+
 ------------------------------------------------------------
 RISE of PWA - Progressive Web Application - A JS revolution
 -----------------------------------------------------------
