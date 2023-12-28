@@ -18,6 +18,12 @@ Numbers - Date,year,hours,seconds,local time
 JS - npm , yarn , VCS , NodeBundle Webpack , Testing Jest , React Library , Angular Framework  , linux environment & Terminal , Primitives [Boolean , String , Number , Undefined, Symbol], Operators [+ - / * %] , Let var const [var , let & const are used to declare variables in js] , Hoisting , Implicit Explicit Conversion , Data structure [Array , Json, Map] , Prototypes [Async , Promises , Closures] , Native Methods [math , sqrt , foreach, ceil] , Paradigms [Functional , Relative , Object] , NodeJs & ExpressJs [Server side J5 , Derby , Meteor , Isometric Applications]
 Caching - CDN, Server side, Client Side
 
+--------------------------
+Slider vs Carousel
+--------------------------
+https://sendpulse.com/blog/website-carousel-design#:~:text=a%20single%20platform.-,What%20is%20the%20difference%20between%20carousels%20and%20sliders%3F,see%20multiple%20slides%20at%20once
+
+
 -------------------
 Package Manager
 -------------------
