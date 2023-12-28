@@ -22,6 +22,23 @@ Package Manager
 Yarn 
 Npm
 
+---------------------
+Linting & Formatting
+---------------------
+Formatting - Make it understandable & Vivid Structure. 
+
+https://eslint.org/docs/latest/use/formatters/ 
+ESlint, SonarLint
+https://www.bitegarden.com/differences-sonarqube-sonarlint#:~:text=1%20%2D%20SonarQube%20is%20a%20server,(as%20a%20spell%20checker).
+https://www.perforce.com/blog/qac/what-lint-code-and-what-linting-and-why-linting-important#:~:text=Linting%20is%20the%20automated%20checking,a%20Unix%20utility%20for%20C.
+https://eslint.org/docs/latest/use/formatters/
+
+------------------
+WebPack
+------------------
+https://webpack.js.org/concepts/modules/
+Webpack - Js code bundler to make single file
+
 ------------------------------------------------------------
 RISE of PWA - Progressive Web Application - A JS revolution
 -----------------------------------------------------------
