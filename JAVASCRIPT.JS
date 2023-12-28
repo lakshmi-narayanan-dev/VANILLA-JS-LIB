@@ -56,6 +56,19 @@ JWT - JSON Web Token
 OAuth - https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow
 SSO 
 
+------------------------
+Var Let Const
+------------------------
+let , var & const = used to declare variables in js.
+Variables = Containers for storing data.
+
+var + let = create variable that can reassign another variable
+const = create constant variables that cannot reassign another variable
+
+Developer use = reassign variable [let] & Fixed variable [const]
+Don't use var in js , they do not support block level scope
+
+Scope in JS = Block - Function - Local - Global
 
 ------------------------------------------------------------
 RISE of PWA - Progressive Web Application - A JS revolution
