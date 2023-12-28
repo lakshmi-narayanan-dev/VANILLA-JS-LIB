@@ -24,6 +24,11 @@ Package Manager
 Yarn 
 Npm
 
+--------------
+JS Challenge
+--------------
+https://www.odoo.com/jobs/challenge
+
 -----------------
 Introduction
 -----------------
