@@ -82,3 +82,18 @@ list.addEventListener(‘click’ , (e) => {
 console.log(e.target) e.target.remove()
 })
 })
+
+-------------------------------
+Js Events
+-------------------------------
+Events in html -> many times in containers or forms
+user single click [onclick = “” ] 
+User double click [ondblclick = “”]
+Hover an element [onmousedown = “”]
+Element loses focus [onblur = “”]
+Element gets focus [onfocus = “”]
+Mouse over an element [onmouseout = “”]
+Mouse out of an element [onmouseout = “”]
+There is a change [onchange = “”]
+On Submitting a form [onsubmit = “”]
+Resetting a form [onreset = “”]
