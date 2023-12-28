@@ -130,3 +130,12 @@ Mouse out of an element [onmouseout = “”]
 There is a change [onchange = “”]
 On Submitting a form [onsubmit = “”]
 Resetting a form [onreset = “”]
+
+-------------------
+Search using JS
+-------------------
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_js_dropdown_filter 
+https://blog.openreplay.com/implementing-live-search-functionality-in-javascript/ 
+
+
+
