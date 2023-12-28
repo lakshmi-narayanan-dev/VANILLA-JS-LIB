@@ -71,6 +71,12 @@ Don't use var in js , they do not support block level scope
 
 Scope in JS = Block - Function - Local - Global
 
+------------------------
+JS OPTIMIZATION
+------------------------
+https://www.mycplus.com/featured-articles/how-to-optimize-javascript-for-your-site-performance/#:~:text=For%20that%20reason%2C%20developers%20often,as%20the%20JS%20code%20loads
+https://www.educba.com/clear-cache-javascript/ 
+
 ------------------------------------------------------------
 RISE of PWA - Progressive Web Application - A JS revolution
 -----------------------------------------------------------
