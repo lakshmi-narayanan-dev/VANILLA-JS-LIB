@@ -2,7 +2,7 @@
 Js Roadmap / Topics
 ----------------------------------------------------------
 Syntax 
-DOM manipulation 
+DOM manipulation - https://www.freecodecamp.org/news/javascript-dom/
 AJAX 
 API
 ES6
