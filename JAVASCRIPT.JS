@@ -144,4 +144,12 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_js_dropdown_filter
 https://blog.openreplay.com/implementing-live-search-functionality-in-javascript/ 
 
 
+------------------
+Operators =
+------------------
+= just to assign values , cont list = document.querySelectorAll(.Class) , Assignment Operator , No Comparison involved
+== Compare two values , not data types , True if the value of two operands are same
+=== Compare two values & also checks its data types , 10 is not equal to "10" - 10 is number , "10" is a string , For a robust comparison use === operator
+
+
 
